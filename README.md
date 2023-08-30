@@ -1,0 +1,1 @@
+This repository provides a beginner-friendly guide to navigating and manipulating your computer's filesystem using command-line shell. Learn essential commands for directory navigation, file management, permissions, text manipulation, pipelines, and more.
